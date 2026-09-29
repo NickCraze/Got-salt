@@ -6,7 +6,7 @@ A responsive blue, white and black marketing website for GOT Holdings, connectin
 
 Serve `dist` using any static web server, for example `python3 -m http.server 8000 --directory dist`, then open `http://localhost:8000`.
 
-There is no build step or package dependency. Source files are `dist/index.html`, `dist/styles.css` and `dist/script.js`. Images are served locally from `dist/assets`. Google Fonts is optional: the page falls back to Arial when unavailable.
+There is no build step or package dependency. Source files are `dist/index.html`, `dist/styles.css` and `dist/script.js`. This GitHub copy references the original licensed image URLs directly. The private review site uses optimized local copies of these same images. Google Fonts is optional: the page falls back to Arial when unavailable.
 
 ## Features
 
