@@ -1,6 +1,6 @@
 # GOT Holdings
 
-A responsive blue, white and black marketing website for GOT Holdings, connecting salt import/export with logistics, warehousing and industrial partnerships.
+A responsive blue, white and black marketing website for GOT Holdings, connecting salt import/export with logistics, warehousing and industrial partnerships. The updated design references HubSpot with a full-width photographic hero, serif headings, paired calls to action and structured service cards, adapted to GOT branding.
 
 ## Run locally
 
